@@ -44,10 +44,10 @@ charadex.sheet = {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design', 'NPC'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary'],
+    rarity: ['All', 'Basic', 'Palette', 'Retro', 'Aquatic'],
     stage: ['All', 'One', 'Two', 'Three', 'Four', 'Five'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Palette', 'Retro', 'Aquatic']
+    traitTypes: ['All', 'Head', 'Body', 'Popups', 'Tail', 'Limbs', 'Storage', 'Misc']
 
   }
 
